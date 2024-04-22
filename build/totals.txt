@@ -1,2 +1,0 @@
-buy_total=1
-sold_total=0
